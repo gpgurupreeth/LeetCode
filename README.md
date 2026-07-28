@@ -26,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gpgurupreeth/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/gpgurupreeth/LeetCode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
