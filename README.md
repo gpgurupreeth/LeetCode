@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gpgurupreeth/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gpgurupreeth/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -30,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/gpgurupreeth/LeetCode/tree/master/0009-palindrome-number) |
+## String
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gpgurupreeth/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/gpgurupreeth/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
