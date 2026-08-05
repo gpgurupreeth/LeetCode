@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/gpgurupreeth/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/gpgurupreeth/LeetCode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/gpgurupreeth/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/gpgurupreeth/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/gpgurupreeth/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/gpgurupreeth/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gpgurupreeth/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/gpgurupreeth/LeetCode/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gpgurupreeth/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/gpgurupreeth/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/gpgurupreeth/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/gpgurupreeth/LeetCode/tree/master/0073-set-matrix-zeroes) |
 ## Binary Search
 |  |
