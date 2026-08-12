@@ -1,23 +1,43 @@
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
-        HashSet<List<Integer>> list=new HashSet<>();
-
-        for (int i = 0; i < nums.length; i++) {
-            HashSet<Integer> set=new HashSet<>();
-            for (int j = i + 1; j < nums.length; j++) {
-                int third=-(nums[i]+nums[j]);
-                if(set.contains(third)){
-                    ArrayList<Integer> temp=new ArrayList<>();
-                    temp.add(nums[i]);
-                    temp.add(nums[j]);
-                    temp.add(third);
-                    Collections.sort(temp);
-                    list.add(temp);
-                }
-                set.add(nums[j]);
+        List<List<Integer>> list=new ArrayList<>();
+        Arrays.sort(nums);
+        for(int i=0;i<nums.length;i++){
+            int k=nums.length-1;
+            int j=i+1;
+            int temp=nums[i];
+            if(i>0 && temp==nums[i-1]){
+                    continue;
             }
+            while(j<k){
+            temp=nums[j];
+            if((j>i+1)&&(temp==nums[j-1])){
+                    j++;
+                    continue;
+            }
+            if((i!=j)&&(j!=k)&&(i<j)&&(j<k)){
+                if(nums[i]+nums[j]+nums[k]==0){
+                    List<Integer> inner=new ArrayList<>();
+                    inner.add(nums[i]);
+                    inner.add(nums[j]);
+                    inner.add(nums[k]);
+                    list.add(inner);
+                    j++;
+                    k--;
+                }
+                else if(nums[i]+nums[j]+nums[k]<0){
+                    j++;
+                }
+                else{
+                    k--;
+                }
+            }
+            else{
+                break;
+            }
+            }
+            
         }
-
-        return new ArrayList<>(list);
+        return list;
     }
 }
