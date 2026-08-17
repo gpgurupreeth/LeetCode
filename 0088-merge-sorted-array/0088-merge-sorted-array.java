@@ -1,16 +1,16 @@
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
-        int size=nums1.length-1;
-        int k=0;
-        while(n>0){
-            if(nums1[size]==0){
-                nums1[size]=nums2[k];
-                n--;
-                k++;
-                size--;
-
+        int ptr1=m-1;
+        int ptr2=n-1;
+        int write=nums1.length-1;
+        while(ptr2>=0){
+            if(ptr1>=0 &&nums1[ptr1]>nums2[ptr2]){
+                nums1[write--]=nums1[ptr1--];
+            }
+            else{
+                nums1[write--]=nums2[ptr2--];
             }
         }
-        Arrays.sort(nums1);
+
     }
 }
