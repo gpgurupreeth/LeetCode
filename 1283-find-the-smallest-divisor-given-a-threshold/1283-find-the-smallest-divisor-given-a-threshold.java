@@ -2,7 +2,8 @@ class Solution {
     public boolean checkResult(int[] nums,int number,int mid){
         int result=0;
         for(int i=0;i<nums.length;i++){
-            result=result+(int)Math.ceil((double)nums[i]/mid);
+            // result=result+(int)Math.ceil((double)nums[i]/mid);
+            result += (nums[i] + mid - 1) / mid;
         }
         if(result<=number){
             return true;
