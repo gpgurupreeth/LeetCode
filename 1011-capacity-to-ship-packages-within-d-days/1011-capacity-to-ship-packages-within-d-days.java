@@ -10,14 +10,10 @@ class Solution {
 
     public boolean checkCapacity(int[] weights,int capacity,int days){
         int total_days=1;
-        // int count=0;
         int cur_capacity=0;
         for(int i=0;i<weights.length;i++){
             cur_capacity+=weights[i];
-            if(cur_capacity<=capacity){
-                continue;
-            }
-            else{
+            if(cur_capacity>capacity){
                 cur_capacity=0;
                 cur_capacity=cur_capacity+weights[i];
                 total_days++;
