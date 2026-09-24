@@ -66,7 +66,6 @@ class Solution {
                     return min;
                 }
             }
-
             else if (l1 > r2) {
                 high = mid - 1;
             }
@@ -75,7 +74,6 @@ class Solution {
                 low = mid + 1;
             }
         }
-
         return -1;
     }
 }
