@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/gpgurupreeth/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/gpgurupreeth/LeetCode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/gpgurupreeth/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/gpgurupreeth/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Union-Find
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/gpgurupreeth/LeetCode/tree/master/0125-valid-palindrome) |
 | [1021-remove-outermost-parentheses](https://github.com/gpgurupreeth/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/gpgurupreeth/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/gpgurupreeth/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String Matching
 |  |
 | ------- |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/gpgurupreeth/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/gpgurupreeth/LeetCode/tree/master/0229-majority-element-ii) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/gpgurupreeth/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
