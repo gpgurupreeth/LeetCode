@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/gpgurupreeth/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/gpgurupreeth/LeetCode/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/gpgurupreeth/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/gpgurupreeth/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/gpgurupreeth/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/gpgurupreeth/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/gpgurupreeth/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/gpgurupreeth/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/gpgurupreeth/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/gpgurupreeth/LeetCode/tree/master/0189-rotate-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/gpgurupreeth/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/gpgurupreeth/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/gpgurupreeth/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
