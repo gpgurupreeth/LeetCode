@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/gpgurupreeth/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/gpgurupreeth/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gpgurupreeth/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/gpgurupreeth/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/gpgurupreeth/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3904-smallest-stable-index-ii](https://github.com/gpgurupreeth/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/gpgurupreeth/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/gpgurupreeth/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/gpgurupreeth/LeetCode/tree/master/0189-rotate-array) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/gpgurupreeth/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/gpgurupreeth/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
