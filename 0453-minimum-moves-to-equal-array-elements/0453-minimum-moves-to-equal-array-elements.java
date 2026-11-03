@@ -2,12 +2,12 @@ import java.util.Arrays;
 
 class Solution {
     public int minMoves(int[] nums) {
-        Arrays.sort(nums);
-        int start = nums[0];
-        int count = 0;
-        for (int i = 1; i < nums.length; i++) {
-            count =count+(nums[i] - start);
+        int min=nums[0];
+        int sum=0;
+        for(int i=0;i<nums.length;i++){
+            min=Math.min(min,nums[i]);
+            sum=sum+nums[i];
         }
-        return count;
+        return sum-nums.length*min;
     }
 }
